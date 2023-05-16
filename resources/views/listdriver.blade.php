@@ -56,9 +56,7 @@
                         </tr>
                     </thead>
                     <?php
-		$s = mysqli_query($con,"select * from menu");
-		while($r = mysqli_fetch_array($s))
-		{
+
 		?>
                     <tbody>
 
